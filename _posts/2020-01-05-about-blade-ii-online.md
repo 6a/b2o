@@ -8,6 +8,7 @@ tags: update musings info
 
 The Blade II Online launcher has an options menu which, aside from options, also contains various miscellaneous bit of information.
 
+{: .center}
 ![Blade II Online Launcher - Options Menu][1]
 *Blade II Online Launcher - Options Menu*
 
