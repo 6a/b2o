@@ -164,3 +164,11 @@ ul {
 .tags-list {
     font-size: 1.1em;
 }
+
+.page-header {
+    margin-bottom: 20px;
+}
+
+.page-header > * {
+    margin-bottom: 0 !important;
+}

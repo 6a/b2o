@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+fulltitle: About Blade II Online
 permalink: /about/
 ---
 
