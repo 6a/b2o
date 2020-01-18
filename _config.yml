@@ -22,8 +22,8 @@ include: ['_pages', '_tag']
 title: Blade II Online Progress Blog
 email: hello@jstanton.io
 description: Progress blog for the development of Blade II Online.
-github_username: 6a
-github_repo: 
+github_url: https://github.com/6a
+github_repo: https://github.com/6a/b2o
 header_pages:
   - index.md
   - _pages/about.md
