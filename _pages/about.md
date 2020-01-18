@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: About Blade II Online
 permalink: /about/
 ---
-
-# About Blade II Online
 
 Blade II Online is a game that I developed as my "Individual Project" (roughly equivalent to a disseration) during my final year at [Kingston University London](https://www.kingston.ac.uk/).
 
