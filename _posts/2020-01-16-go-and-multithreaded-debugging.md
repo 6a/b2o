@@ -53,7 +53,7 @@ Goroutine 16 (running) created at:
       c:/go/src/net/http/server.go:1890 +0x83e
 ```
 
-By running various operation tests (essentially running through various scenarios while the program is running) I was able two identify major data races.
+By running various operation tests (essentially running through various scenarios while the program is running) I was able to identify two major data races.
 
 1. Read/write to and from a member variable in a struct that is manipulated by two different threads - Resolved by using a mutex lock to avoid concurrent access.
 2. Read/write to and from a [channels][2] shared between multiple goroutines - resolved by moving initialization to the main thread.
