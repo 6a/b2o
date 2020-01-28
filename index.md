@@ -1,6 +1,7 @@
 ---
 layout: home
-title: Blade II Online Progress Blog
+title: Home
+fulltitle: Blade II Online Progress Blog
 permalink: /
 ---
 
