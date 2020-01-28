@@ -20,10 +20,10 @@ Once matched, they are sent a match ID, which they then can use to join the game
 
 During development of the matchmaking server, I spent some timing hunting for, and removing race conditions using the built in [race detector][1].
 
-The tool is easy to set up - simply running the program with the **-race** flag enables race detection output whenever a data race is detected:
+The tool is easy to set up - simply running the program with the `-race` flag enables race detection output whenever a data race is detected:
 
 ```bash
-go run -race mysrc.go
+go run -race main.go
 ```
 
 Whenever the running program encounters a race condition, highly detailed information is sent to the standard output stream:
