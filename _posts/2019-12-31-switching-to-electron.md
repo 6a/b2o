@@ -16,9 +16,11 @@ Being able to harness CSS animations is also a boon, as it allowed me to effortl
 
 Switching environments also allowed me to redesign the UI in a more flat design style. I took a lot of inspiration from the current (at the time of writing) League of Legends launcher, which may be clear to see for those who are familiar with the game.
 
+{: .center}
 ![Unreal Engine 4 Login Page][2]
 *Unreal Engine 4 Login Page*
 
+{: .center}
 ![Electron Login Page][3]
 *Electron Login Page*
 

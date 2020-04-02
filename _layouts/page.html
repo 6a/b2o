@@ -1,5 +1,12 @@
 ---
 layout: default
 ---
+<div class="page-header">
+    {% if page.fulltitle %}
+        <h1>{{ page.fulltitle }}</h1>
+    {% else %}
+        <h1>{{ page.title }}</h1>
+    {% endif %}
+</div>
 
 {{ content }}

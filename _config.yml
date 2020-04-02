@@ -22,8 +22,9 @@ include: ['_pages', '_tag']
 title: Blade II Online Progress Blog
 email: hello@jstanton.io
 description: Progress blog for the development of Blade II Online.
-github_username: 6a
-github_repo: 
+github_url: https://github.com/6a
+github_repo: https://github.com/6a/b2o
+portfolio_url: https://jstanton.io
 header_pages:
   - index.md
   - _pages/about.md
@@ -32,7 +33,7 @@ header_pages:
 theme: jekyll-theme-console
 plugins:
   - jekyll-feed
-
+  - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
